@@ -1,6 +1,15 @@
 <h1 align="center">Hi 👋, I'm Ezequiel Alonso</h1>
 <h3 align="center">A passionate FullStack developer from Argentina</h3>
 
+<h4>¿Quien Soy?</h4>
+<p>Soy un desarrollador Full Stack con enfoque en Backend. Mi pasión por la programación comenzó a los 18 años, lo que me llevó a completar una carrera universitaria y obtener el título de Analista de Sistemas, donde fui capacitado en el análisis, diseño y optimización de sistemas informáticos. Durante mis estudios, adquirí experiencia en lenguajes como Pascal, Embarcadero Delphi y C++. Más recientemente, he realizado una especialización en desarrollo web, enfocándome en las tecnologías más demandadas del sector.</p>
+
+<h4>¿Que Hago?</h4>
+<p>Actualmente, estoy enfocado en el desarrollo de proyectos personales con un enfoque en soluciones tecnológicas. Mi objetivo es ayudar a empresas, comercios e instituciones a optimizar su desempeño y alcanzar sus objetivos, aplicando herramientas modernas que potencien su crecimiento y adaptabilidad en un entorno cada vez más digital..</p>
+
+<h4>¿Hacia donde voy?</h4>
+<p>Mi objetivo es integrarme a una empresa del sector IT, donde pueda aplicar mis habilidades y conocimientos para generar valor y contribuir al crecimiento de la organización. Estoy profundamente apasionado por la programación y me motiva enfrentar nuevos desafíos que me permitan seguir aprendiendo y perfeccionándome profesionalmente. Estoy comprometido en aportar soluciones innovadoras y eficientes, siempre buscando mejorar tanto a nivel técnico como en el trabajo en equipo, con el fin de impulsar el éxito de la empresa que confíe en mí.</p>
+
 - 🔭 I’m currently working on [StyleFlow](https://github.com/EAEzequielAlonso/StyleFlow-Back.git)
 
 - 🌱 I’m currently learning **FrontEnd - nextJS**
